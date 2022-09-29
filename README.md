@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yegor
 
 ## I'm a FrontEnd Developer
-✓ 💪 I like to write code <br />
+✓ 💪 __I like to write code__ <br />
 ✓ 🎉 I love to play the guitar <br />
 ✓ 🥅 I am constantly learning new things <br />
 ✓ ⚡ I am interested in blockchain technologies and investing in cryptocurrency <br />
