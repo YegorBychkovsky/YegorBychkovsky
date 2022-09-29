@@ -1,3 +1,5 @@
+bgcolor = grey
+
 ### __Hi there 👋, I'm Yegor__
 
 ## I'm a FrontEnd Developer
