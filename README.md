@@ -14,7 +14,9 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YegorBychkovsky&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000icon_color=2234AE&text_color=000&bg_color=0,000000,fffff" alt="ABSphreak's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=YegorBychkovsky&show_icons=true&line_height=45&include_all_commits=true" />
+
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=20122658"  />
 
 </br>
 </br>
