@@ -10,7 +10,6 @@
 ### Connect with me:
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" />][vk]
@@ -41,7 +40,6 @@
 </details>
 
 [website]: https://www.upwork.com/freelancers/~01bcb4bf94b3e0022d?p=1575144948430360576
-[youtube]: 
 [linkedin]: linkedin.com/in/egor-bychkovsky-74385924b
 [instagram]: https://www.instagram.com/ye_gor_/
 [vk]: https://t.me/yyyeeegorr
