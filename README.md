@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Yegor
 
 ## I'm a FrontEnd Developer
-► 💪 I like to write code
-► 🎉 I love to play the guitar
-► 🥅 I am constantly learning new things
-► ⚡ I am interested in blockchain technologies and investing in cryptocurrency
-► 🤹🏽 I am free for new connections and joint projects
+► 💪 I like to write code <br />
+► 🎉 I love to play the guitar <br />
+► 🥅 I am constantly learning new things <br />
+► ⚡ I am interested in blockchain technologies and investing in cryptocurrency <br />
+► 🤹🏽 I am free for new connections and joint projects <br />
 
 ### Connect with me:
 
