@@ -41,7 +41,7 @@
 </details>
 
 [website]: https://www.upwork.com/freelancers/~01bcb4bf94b3e0022d?p=1575144948430360576
-[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
+[youtube]: 
 [linkedin]: linkedin.com/in/egor-bychkovsky-74385924b
 [instagram]: https://www.instagram.com/ye_gor_/
 [vk]: https://t.me/yyyeeegorr
