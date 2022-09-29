@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yegor
+### __Hi there 👋, I'm Yegor__
 
 ## I'm a FrontEnd Developer
 ✓ 💪 __I like to write code__ <br />
