@@ -1,5 +1,3 @@
- <td bgcolor = grey>
-
 ### __Hi there 👋, I'm Yegor__
 
 ## I'm a FrontEnd Developer
@@ -45,4 +43,3 @@
 [linkedin]: https://www.linkedin.com/in/egor-bychkovsky-74385924b/
 [instagram]: https://www.instagram.com/ye_gor_/
 [vk]: https://t.me/yyyeeegorr
-</td>
