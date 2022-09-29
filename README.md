@@ -37,7 +37,7 @@
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&langs_count=8&layout=compact" />
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YegorBychkovsky&show_icons=true" />
 </details>
 
 [website]: https://www.upwork.com/freelancers/~01bcb4bf94b3e0022d?p=1575144948430360576
