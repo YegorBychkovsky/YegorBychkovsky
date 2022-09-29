@@ -2,10 +2,10 @@
 
 ## I'm a FrontEnd Developer
 ✓ 💪 __I like to write code__ <br />
-✓ 🎉 I love to play the guitar <br />
-✓ 🥅 I am constantly learning new things <br />
-✓ ⚡ I am interested in blockchain technologies and investing in cryptocurrency <br />
-✓ 🤹🏽 I am free for new connections and joint projects <br />
+✓ 🎉 __I love to play the guitar__ <br />
+✓ 🥅 __I am constantly learning new things__ <br />
+✓ ⚡ __I am interested in blockchain technologies and investing in cryptocurrency__ <br />
+✓ 🤹🏽 __I am free for new connections and joint projects__ <br />
 
 ### Connect with me:
 
