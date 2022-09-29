@@ -40,6 +40,6 @@
 </details>
 
 [website]: https://www.upwork.com/freelancers/~01bcb4bf94b3e0022d?p=1575144948430360576
-[linkedin]: [linkedin.com/in/egor-bychkovsky-74385924b](https://www.linkedin.com/in/egor-bychkovsky-74385924b/)
+[linkedin]: https://www.linkedin.com/in/egor-bychkovsky-74385924b/
 [instagram]: https://www.instagram.com/ye_gor_/
 [vk]: https://t.me/yyyeeegorr
