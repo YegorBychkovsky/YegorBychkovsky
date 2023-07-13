@@ -14,7 +14,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&theme=dark&langs_count=10&hide=shell,html)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&layout=compact&size_weight=0&count_weight=0.5&hide=html,css,scss )
 
 
@@ -38,12 +37,3 @@ Languages and Tools:
 <img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </h3>
 
-
----
-
-<i>Follow me around the web:</i><br>
-
-<a href="https://www.upwork.com/freelancers/~01bcb4bf94b3e0022d?p=1575144948430360576"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="25" alt="UpWork"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25" alt="linkedin"></a>
-<a href="https://www.instagram.com/ye_gor_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25" alt="instagram"></a>
-<a href="https://t.me/yyyeeegorr"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" alt="telegram" width="25" ></a>
