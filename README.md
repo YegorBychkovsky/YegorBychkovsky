@@ -21,4 +21,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&layout=compact&size_weight=0&count_weight=0.5&exclude_repo=HANGMAN-GAME,YegorBychkovsky-Hillel_Lessons_Front-end_Pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&layout=compact&size_weight=0&count_weight=0.5&exclude_repo=HANGMAN-GAME,YegorBychkovsky-Hillel_Lessons_Front-end_Pro&hide=html,css)
