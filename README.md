@@ -14,6 +14,9 @@
 
 <div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackakula&theme=dark&langs_count=10&hide=shell,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=YegorBychkovsky&show_icons=true&line_height=45&include_all_commits=true" />
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=20122658"  />
