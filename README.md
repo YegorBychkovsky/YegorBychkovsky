@@ -15,7 +15,7 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&theme=dark&langs_count=10&hide=shell,html)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&layout=compact&size_weight=0&count_weight=1&hide=html,css,scss )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegorBychkovsky&layout=compact&size_weight=0&count_weight=1.5&hide=html,css,scss )
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=YegorBychkovsky&show_icons=true&line_height=45&include_all_commits=true" />
